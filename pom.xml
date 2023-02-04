@@ -25,6 +25,13 @@
         </developer>
     </developers>
 
+    <scm>
+        <connection>scm:git:https://github.com/dominikcebula/java17-basic-archetype.git</connection>
+        <developerConnection>scm:git:https://github.com/dominikcebula/java17-basic-archetype.git</developerConnection>
+        <url>https://github.com/dominikcebula/java17-basic-archetype</url>
+        <tag>HEAD</tag>
+    </scm>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>17</java.version>
